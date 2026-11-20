@@ -24,3 +24,22 @@ Pro adds a full interactive dashboard, six feature cards, how-it-works, pricing 
 - Replace example brand/copy with your own authorized content where necessary.
 - Add an actual Pro-store URL only once your verified product listing exists.
 - Test on mobile and desktop. No sales or traffic are guaranteed.
+
+
+## Upgrade to NexusAI Pro
+
+Want the complete AI SaaS landing page template?
+
+NexusAI Pro includes:
+- Interactive dashboard preview
+- 6 feature cards
+- Monthly/Yearly pricing toggle
+- FAQ accordion
+- Responsive dark-mode design
+- Commercial license
+
+**Get NexusAI Pro for $29:**
+
+https://navinduspark7.gumroad.com/l/itoaqm
+
+Frontend template only. No AI backend included.
