@@ -43,3 +43,5 @@ NexusAI Pro includes:
 https://navinduspark7.gumroad.com/l/itoaqm
 
 Frontend template only. No AI backend included.
+
+
